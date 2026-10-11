@@ -14,7 +14,7 @@ An authored seminar paper on **Ad hoc On-Demand Distance Vector (AODV)** routing
 
 The paper is available in [`paper/Reactive-Routing-Using-AODV.pdf`](paper/Reactive-Routing-Using-AODV.pdf).
 
-## Figure provenance
+## About the figures
 
 The PDF contains four schematic diagrams prepared as explanatory figures for this seminar paper: infrastructure comparison, AODV route discovery, Expanding Ring Search and route maintenance. They are not copied screenshots. The networking behavior represented by the diagrams is supported by the paper's inline citations and bibliography, including RFC 3561.
 
